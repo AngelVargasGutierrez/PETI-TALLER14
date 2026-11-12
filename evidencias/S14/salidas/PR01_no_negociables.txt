@@ -1,0 +1,15 @@
+=== PROYECTOS NO NEGOCIABLES ===
+  PR-02  Registro de actividades de tratamiento de datos personales
+         norma: Ley 29733 y D. S. 016-2024-JUS
+         plazo límite del plan: 2027-09-30
+         fundamento: Registro de actividades de tratamiento: obligación vigente y supervisada por la ANPD
+  PR-12  Medidas de seguridad sobre datos personales (contraseñas, segundo factor, capacitación)
+         norma: Ley 29733 art. 9 (principio de seguridad) y D. S. 016-2024-JUS
+         plazo límite del plan: 2027-12-31
+         fundamento: Medidas de seguridad sobre datos personales: hoy la clave mínima es de seis caracteres y solo el correo tiene segundo factor
+
+→ NO entran al modelo de priorización. Se ubican en la hoja de ruta por su plazo,
+  con al menos un trimestre de margen antes de la fecha límite.
+
+Candidatos: 14 · no negociables: 2 · compiten en el modelo: 12
+Proyectos que sí compiten: PR-01, PR-03, PR-04, PR-05, PR-06, PR-07, PR-08, PR-09, PR-10, PR-11, PR-13, PR-14

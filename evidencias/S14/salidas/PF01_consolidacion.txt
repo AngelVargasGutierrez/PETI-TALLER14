@@ -1,0 +1,35 @@
+=== CONTROL DE ADMISIÓN ===
+Candidatos sin fuente admisible: 0 → se retiran: []
+Candidatos sin objetivo asociado: 0 → se retiran o se justifican
+
+Proyectos admitidos: 14
+
+Por fuente:
+ fuente
+Brecha de capacidad           5
+Estrategia FODA               5
+Obligación normativa          2
+Brecha de línea base          1
+Brecha de servicio digital    1
+
+Por categoría:
+ categoria
+Operar         7
+Crecer         4
+Transformar    3
+
+=== COBERTURA DE OBJETIVOS ===
+objetivo
+OD-01    2
+OD-02    2
+OD-03    4
+OD-04    2
+OD-05    3
+OD-06    3
+
+OD-01 Restablecer el control interno en compras y pagos
+OD-02 Conciliar el inventario contable con el físico (diferencia actual 4.7 %)
+OD-03 Asegurar la continuidad y la seguridad de la operación
+OD-04 Cumplir el marco legal de datos personales (ANPD)
+OD-05 Crecer en el canal digital y reducir el costo de despacho
+OD-06 Gobernar la inversión de TI con beneficios medidos

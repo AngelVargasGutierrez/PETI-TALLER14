@@ -1,0 +1,23 @@
+=== COSTO TOTAL DE PROPIEDAD A 5 AÑOS ===
+codigo  inv_inicial  costo_unico  costo_anual    tco_5  pct_operativo incertidumbre
+ PR-13       190000       280000     100200.0 781000.0           64.1         ±50 %
+ PR-07        62000        89000      32100.0 249500.0           64.3         ±40 %
+ PR-03        48000        71000      22200.0 182000.0           61.0         ±35 %
+ PR-08        40000        55000      20400.0 157000.0           65.0         ±35 %
+ PR-09        34000        46000      21480.0 153400.0           70.0         ±35 %
+ PR-04        30000        44000      15000.0 119000.0           63.0         ±30 %
+ PR-12        18000        23000       9600.0  71000.0           67.6         ±25 %
+ PR-02        22000        26000       8200.0  67000.0           61.2         ±20 %
+ PR-06        16000        20000       7320.0  56600.0           64.7         ±30 %
+ PR-05        12000        14000       7800.0  53000.0           73.6         ±20 %
+ PR-01        14000        17000       4400.0  39000.0           56.4         ±20 %
+ PR-14        14000        19000       3800.0  38000.0           50.0         ±25 %
+ PR-10         8000        11000       5000.0  36000.0           69.4         ±20 %
+ PR-11         6000         8000       3000.0  23000.0           65.2         ±15 %
+
+Inversión inicial total : S/ 514,000
+TCO total a 5 años      : S/ 2,025,500
+Factor TCO/inversión    : 3.94×
+
+→ El TCO es 3.9 veces la inversión inicial. Presentar solo la inversión
+  inicial ante la gerencia subestima el compromiso en S/ 1,511,500.
