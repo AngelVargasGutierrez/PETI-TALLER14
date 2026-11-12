@@ -1,0 +1,36 @@
+=== PRESUPUESTO PLURIANUAL (S/) ===
+Plan de PR05_hoja_ruta.csv: PR-02, PR-01, PR-11, PR-05, PR-12, PR-04, PR-10, PR-06, PR-03, PR-08, PR-14
+                   CAPEX     OPEX G.cambio Conting.    TOTAL    Techo  Holgura  ¿Cuadra?
+  Año 1 (2027)   121,000   14,183   12,100   22,092  169,376  222,000   52,624  SÍ
+  Año 2 (2028)   113,000   56,590   11,300   27,134  208,024  222,000   13,976  SÍ
+  Año 3 (2029)    74,000   95,570    7,400   26,546  203,516  222,000   18,484  SÍ
+  Total 3 años   308,000  166,343   30,800   75,772  580,916
+
+TOTAL DEL PLAN (3 años): S/ 580,916
+  CAPEX: S/ 308,000  (53%)
+  OPEX : S/ 166,343  (29%)
+
+=== RANGO DE INCERTIDUMBRE (según la incertidumbre de cada proyecto en PF02_tco.csv) ===
+  Año 1 (2027): S/ 135,031 a S/ 203,721 · dentro del techo aun en el extremo alto
+  Año 2 (2028): S/ 160,649 a S/ 255,398 · el extremo alto supera el techo en S/ 33,398
+  Año 3 (2029): S/ 173,156 a S/ 233,875 · el extremo alto supera el techo en S/ 11,875
+
+=== CURVA DE GASTO OPERATIVO (OPEX) ACUMULADO ===
+  Año 1 (2027): OPEX del año S/   14,183 ( 6.4% del techo) · acumulado S/   14,183
+  Año 2 (2028): OPEX del año S/   56,590 (25.5% del techo) · acumulado S/   70,773
+  Año 3 (2029): OPEX del año S/   95,570 (43.0% del techo) · acumulado S/  166,343
+  Desde 2030, sin ningún proyecto nuevo: S/ 106,720 por año (48.1% del techo).
+  OPEX del año 3 ÷ OPEX del año 1: ×6.7
+→ El OPEX NO BAJA: cada proyecto entregado lo incrementa de forma permanente.
+  Este es el compromiso real que la gerencia asume al aprobar el plan.
+
+=== ESCENARIO ALTERNO: agregar PR-07 (canal de pedidos móvil) en el año 3 ===
+                   CAPEX     OPEX G.cambio Conting.    TOTAL    Techo  Holgura  ¿Cuadra?
+  Año 1 (2027)   121,000   14,183   12,100   22,092  169,376  222,000   52,624  SÍ
+  Año 2 (2028)   113,000   56,590   11,300   27,134  208,024  222,000   13,976  SÍ
+  Año 3 (2029)   163,000  103,595   16,300   42,434  325,329  222,000 -103,329  NO · excede el techo
+  Total 3 años   397,000  174,368   39,700   91,660  702,729
+→ Año 3 (2029) excedería el techo en S/ 103,329: PR-07 no cabe sin retirar otro proyecto.
+
+RESULTADO: el presupuesto cuadra con el techo anual en los tres años.
+Archivos creados: PR06_presupuesto.csv · ../graficos/PR_presupuesto.png

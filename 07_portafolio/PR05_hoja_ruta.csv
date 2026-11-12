@@ -8,6 +8,5 @@ PR-04 Gobierno del dato maestro,Ola 2 Habilitación,Año 1,2027-II y 2028-I,2027
 PR-10 Mesa de servicio con registro de incidentes y de cambios,Ola 2 Habilitación,Año 1,2027-II,2027-10,2027-12,3,—,H2 · dic 2028,Sistemas
 PR-06 Remediación de seguridad del portal de pedidos,Ola 2 Habilitación,Año 2,2028-I,2028-01,2028-03,3,—,H2 · dic 2028,Sistemas
 PR-03 Reactivación del módulo de almacén y conciliación del inventario,Ola 2 Habilitación,Año 2,2028-I y 2028-II,2028-04,2028-11,8,PR-04,H2 · dic 2028,Almacén
-PR-08 Planificación de rutas y trazabilidad de despacho,Ola 3 Explotación,Año 2,2028-I y 2028-II,2028-04,2028-09,6,PR-04,H3 · dic 2029,Distribución
-PR-14 Autoservicio de trabajadores,Ola 3 Explotación,Año 2,2028-II,2028-10,2028-12,3,—,H3 · dic 2029,Recursos Humanos
-PR-07 Rediseño móvil del canal de pedidos de la bodega,Ola 3 Explotación,Año 3,2029-I y 2029-II,2029-01,2029-09,9,PR-04; PR-03,H3 · dic 2029,Comercial
+PR-08 Planificación de rutas y trazabilidad de despacho,Ola 3 Explotación,Año 3,2029-I,2029-01,2029-06,6,PR-04,H3 · dic 2029,Distribución
+PR-14 Autoservicio de trabajadores,Ola 3 Explotación,Año 3,2029-I,2029-01,2029-03,3,—,H3 · dic 2029,Recursos Humanos
