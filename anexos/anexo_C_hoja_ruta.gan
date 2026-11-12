@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="PETI Distribuidora Andina del Sur · Hoja de ruta 2027-2029" company="Distribuidora Andina del Sur S.A.C." webLink="" view-date="2027-01-01" view-index="0" gantt-divider-location="460" resource-divider-location="300" version="3.2.3247" locale="es">
+  <description><![CDATA[Hoja de ruta del portafolio del PETI en tres olas. Generado por PR05_gantt.py a partir de PR05_hoja_ruta.csv.]]></description>
+  <view zooming-state="default:2" id="gantt-chart">
+    <field id="tpd3" name="Nombre" width="340" order="0"/>
+    <field id="tpd4" name="Fecha de inicio" width="80" order="1"/>
+    <field id="tpd5" name="Fecha de fin" width="80" order="2"/>
+  </view>
+  <view id="resource-table">
+    <field id="0" name="Nombre" width="210" order="0"/>
+    <field id="1" name="Función" width="86" order="1"/>
+  </view>
+  <calendars>
+    <day-types>
+      <day-type id="0"/>
+      <day-type id="1"/>
+      <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+      <only-show-weekends value="false"/>
+      <overriden-day-types/>
+      <days/>
+    </day-types>
+  </calendars>
+  <tasks empty-milestones="true">
+    <taskproperties>
+      <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+      <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+      <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+      <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+      <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+      <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+      <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+      <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+      <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+      <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+    </taskproperties>
+    <task id="1" name="Ola 1 Fundacional" color="#2a78d6" meeting="false" start="2027-01-01" duration="195" complete="0" expand="true">
+      <task id="2" name="PR-02 Registro de actividades de tratamiento de datos personales" color="#2a78d6" meeting="false" start="2027-01-01" duration="107" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Comercial. Duración: 5 meses.]]></notes></task>
+      <task id="3" name="PR-01 Segregación de funciones en compras y pagos" color="#2a78d6" meeting="false" start="2027-01-01" duration="64" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Administración y Finanzas. Duración: 3 meses.]]></notes></task>
+      <task id="4" name="PR-11 Reactivación del comité de TI y medición de beneficios" color="#2a78d6" meeting="false" start="2027-04-01" duration="43" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Gerencia. Duración: 2 meses.]]></notes></task>
+      <task id="5" name="PR-05 Restauración probada de respaldos y plan de continuidad" color="#2a78d6" meeting="false" start="2027-07-01" duration="66" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Sistemas. Duración: 3 meses.]]></notes></task>
+      <task id="6" name="PR-12 Medidas de seguridad sobre datos personales" color="#2a78d6" meeting="false" start="2027-07-01" duration="66" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Transversal. Duración: 3 meses.]]></notes></task>
+      <task id="7" name="HITO DE DECISIÓN H1 · cierre de Ola 1 Fundacional · continuar, ajustar o detener" color="#52514e" meeting="true" start="2027-12-31" duration="0" complete="0" expand="true"/>
+    </task>
+    <task id="8" name="Ola 2 Habilitación" color="#1baf7a" meeting="false" start="2027-10-01" duration="305" complete="0" expand="true">
+      <task id="9" name="PR-04 Gobierno del dato maestro" color="#1baf7a" meeting="false" start="2027-10-01" duration="131" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Compras. Duración: 6 meses.]]></notes><depend id="12" type="2" difference="0" hardness="Rubber"/><depend id="15" type="2" difference="0" hardness="Rubber"/></task>
+      <task id="10" name="PR-10 Mesa de servicio con registro de incidentes y de cambios" color="#1baf7a" meeting="false" start="2027-10-01" duration="66" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Sistemas. Duración: 3 meses.]]></notes></task>
+      <task id="11" name="PR-06 Remediación de seguridad del portal de pedidos" color="#1baf7a" meeting="false" start="2028-01-03" duration="65" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Sistemas. Duración: 3 meses.]]></notes></task>
+      <task id="12" name="PR-03 Reactivación del módulo de almacén y conciliación del inventario" color="#1baf7a" meeting="false" start="2028-04-03" duration="174" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Almacén. Duración: 8 meses.]]></notes></task>
+      <task id="13" name="HITO DE DECISIÓN H2 · cierre de Ola 2 Habilitación · continuar, ajustar o detener" color="#52514e" meeting="true" start="2029-01-01" duration="0" complete="0" expand="true"/>
+    </task>
+    <task id="14" name="Ola 3 Explotación" color="#eda100" meeting="false" start="2029-01-01" duration="130" complete="0" expand="true">
+      <task id="15" name="PR-08 Planificación de rutas y trazabilidad de despacho" color="#eda100" meeting="false" start="2029-01-01" duration="130" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Distribución. Duración: 6 meses.]]></notes></task>
+      <task id="16" name="PR-14 Autoservicio de trabajadores" color="#eda100" meeting="false" start="2029-01-01" duration="65" complete="0" expand="true"><notes><![CDATA[Área usuaria afectada: Recursos Humanos. Duración: 3 meses.]]></notes></task>
+      <task id="17" name="HITO DE DECISIÓN H3 · cierre de Ola 3 Explotación · continuar, ajustar o detener" color="#52514e" meeting="true" start="2029-12-31" duration="0" complete="0" expand="true"/>
+    </task>
+    <task id="18" name="PLAZO NORMATIVO · PR-02 · 2027-09-30" color="#d03b3b" meeting="true" start="2027-09-30" duration="0" complete="0" expand="true"/>
+    <task id="19" name="PLAZO NORMATIVO · PR-12 · 2027-12-31" color="#d03b3b" meeting="true" start="2027-12-31" duration="0" complete="0" expand="true"/>
+  </tasks>
+  <resources/>
+  <allocations/>
+  <vacations/>
+  <previous/>
+  <roles roles-name="Default"/>
+</project>

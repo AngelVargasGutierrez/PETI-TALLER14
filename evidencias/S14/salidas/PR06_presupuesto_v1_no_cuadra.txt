@@ -1,0 +1,28 @@
+=== PRESUPUESTO PLURIANUAL (S/) ===
+Plan de PR05_hoja_ruta.csv: PR-02, PR-01, PR-11, PR-05, PR-12, PR-04, PR-10, PR-06, PR-03, PR-08, PR-14, PR-07
+                   CAPEX     OPEX G.cambio Conting.    TOTAL    Techo  Holgura  ¿Cuadra?
+  Año 1 (2027)   121,000   14,183   12,100   22,092  169,376  222,000   52,624  SÍ
+  Año 2 (2028)   187,000   61,690   18,700   40,108  307,498  222,000  -85,498  NO · excede el techo
+  Año 3 (2029)    89,000  114,745    8,900   31,897  244,542  222,000  -22,542  NO · excede el techo
+  Total 3 años   397,000  190,618   39,700   94,097  721,416
+
+TOTAL DEL PLAN (3 años): S/ 721,416
+  CAPEX: S/ 397,000  (55%)
+  OPEX : S/ 190,618  (26%)
+
+=== RANGO DE INCERTIDUMBRE (según la incertidumbre de cada proyecto en PF02_tco.csv) ===
+  Año 1 (2027): S/ 135,031 a S/ 203,721 · dentro del techo aun en el extremo alto
+  Año 2 (2028): S/ 229,764 a S/ 385,233 · el extremo alto supera el techo en S/ 163,233
+  Año 3 (2029): S/ 199,508 a S/ 289,576 · el extremo alto supera el techo en S/ 67,576
+
+=== CURVA DE GASTO OPERATIVO (OPEX) ACUMULADO ===
+  Año 1 (2027): OPEX del año S/   14,183 ( 6.4% del techo) · acumulado S/   14,183
+  Año 2 (2028): OPEX del año S/   61,690 (27.8% del techo) · acumulado S/   75,873
+  Año 3 (2029): OPEX del año S/  114,745 (51.7% del techo) · acumulado S/  190,618
+  Desde 2030, sin ningún proyecto nuevo: S/ 138,820 por año (62.5% del techo).
+  OPEX del año 3 ÷ OPEX del año 1: ×8.1
+→ El OPEX NO BAJA: cada proyecto entregado lo incrementa de forma permanente.
+  Este es el compromiso real que la gerencia asume al aprobar el plan.
+
+RESULTADO: el presupuesto NO cuadra con el techo. Reprogramar PR05_hoja_ruta.csv y volver a ejecutar.
+Archivos creados: PR06_presupuesto.csv · ../graficos/PR_presupuesto.png

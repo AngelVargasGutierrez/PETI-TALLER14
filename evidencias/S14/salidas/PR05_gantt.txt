@@ -1,0 +1,6 @@
+=== CRONOGRAMA PARA GANTTPROJECT ===
+PR05_hoja_ruta.gan · XML bien formado · 3 grupos (olas) · 11 proyectos · 2 dependencias fin-inicio · 3 hitos de decisión · 2 hitos rojos de plazo normativo · 19 tareas en total
+  Enlace fin-inicio: PR-04 → PR-03, PR-08
+  Hito rojo: PR-02 · plazo 2027-09-30
+  Hito rojo: PR-12 · plazo 2027-12-31
+Archivos creados: PR05_hoja_ruta.gan · ../graficos/PR_hoja_ruta.png

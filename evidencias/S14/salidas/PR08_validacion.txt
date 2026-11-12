@@ -1,0 +1,23 @@
+=== PASO F · VALIDACIÓN ===
+
+[OK] 1. Los pesos suman uno y cada peso tiene su justificación en el diagnóstico
+       suma = 1.00 · 8 criterios · sin justificación: 0 · impacto social y ambiental = 0.10 (mínimo 0.10)
+[OK] 2. Ningún proyecto está programado antes que aquel del que depende
+       2 dependencias revisadas (PR-04→PR-03, PR-04→PR-08) · rotas: 0 
+[OK] 3. El presupuesto por año cuadra con la capacidad real de gasto
+       Año 1 (2027): S/ 169,376 de S/ 222,000 · Año 2 (2028): S/ 208,024 de S/ 222,000 · Año 3 (2029): S/ 203,516 de S/ 222,000 · años que exceden: 0
+
+[OK] 4. Todo proyecto del portafolio está en la hoja de ruta o en la tabla de lo que no se hará
+       en la hoja de ruta: 11 · no se harán: ['PR-07', 'PR-09', 'PR-13'] · sin destino: ninguno
+[OK] 5. Los proyectos del cuadrante ④ están declarados como no ejecutados, con riesgo y responsable
+       cuadrante ④: ['PR-09', 'PR-13'] · filas con riesgo, responsable y fecha de revisión: 3 de 3
+[OK] 6. Los no negociables no fueron puntuados y sí están en la hoja de ruta
+       no negociables: ['PR-02', 'PR-12']
+[OK] 7. Las cifras del presupuesto se presentan con su rango de incertidumbre
+       Año 1 (2027): S/ 135,031 a S/ 203,721 · Año 2 (2028): S/ 160,649 a S/ 255,398 · Año 3 (2029): S/ 173,156 a S/ 233,875
+
+RESULTADO: 7 de 7 comprobaciones superadas.
+
+Pendiente que la validación automática no puede cerrar:
+  · En el extremo alto del rango, 2 de 3 años superan el techo. Se trata en el hito de decisión de cada ola.
+  · Los pesos y el techo son la propuesta para la Entrevista 3; falta el acta de la entrevista simulada.

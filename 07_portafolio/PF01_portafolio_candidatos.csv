@@ -1,0 +1,15 @@
+codigo,nombre,fuente,seccion_origen,objetivo,categoria,area_usuaria
+PR-01,Segregación de funciones y flujo de aprobación en compras y pagos,Brecha de capacidad,FICHA G (incidente) y H-1,OD-01,Operar,Administración y Finanzas
+PR-02,Registro de actividades de tratamiento de datos personales,Obligación normativa,Sección 4.1.5 · Sección 3.5 E-08,OD-04,Operar,Comercial
+PR-03,Reactivación del módulo de almacén y conciliación del inventario,Brecha de capacidad,FICHA C (problema reconocido) y H-2,OD-02,Transformar,Almacén
+PR-04,"Gobierno del dato maestro (productos, proveedores y clientes)",Estrategia FODA,Sección 3.5 E-05,"OD-01, OD-02",Transformar,Compras
+PR-05,Restauración probada de respaldos y plan de continuidad,Brecha de capacidad,FICHA E y F (respaldos) · Sección 3.5 E-09,OD-03,Operar,Sistemas
+PR-06,Remediación de seguridad del portal de pedidos,Brecha de capacidad,FICHA C (sin soporte) y H-3,OD-03,Operar,Sistemas
+PR-07,Rediseño móvil del canal de pedidos de la bodega,Estrategia FODA,Sección 3.5 E-06,OD-05,Crecer,Comercial
+PR-08,Planificación de rutas y trazabilidad de despacho,Estrategia FODA,Sección 3.5 E-02,OD-05,Crecer,Distribución
+PR-09,Analítica de demanda y tablero comercial,Estrategia FODA,Sección 3.5 E-01,OD-05,Crecer,Gerencia
+PR-10,Mesa de servicio con registro de incidentes y de cambios,Brecha de línea base,FICHA F (incidentes y cambios),"OD-03, OD-06",Operar,Sistemas
+PR-11,Reactivación del comité de TI y medición de beneficios,Brecha de capacidad,FICHA B (comité) · expedientes de inversión,OD-06,Operar,Gerencia
+PR-12,"Medidas de seguridad sobre datos personales (contraseñas, segundo factor, capacitación)",Obligación normativa,Sección 4.1.5 · FICHA F,OD-04,Operar,Transversal
+PR-13,Cambio del ERP por una versión en nube,Estrategia FODA,Sección 3.5 E-04,OD-03,Transformar,Transversal
+PR-14,Autoservicio de trabajadores (boletas y vacaciones),Brecha de servicio digital,Pedido de Recursos Humanos,OD-06,Crecer,Recursos Humanos
